@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fpgalab.org/sitemap.xml
